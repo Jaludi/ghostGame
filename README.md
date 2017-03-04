@@ -11,7 +11,7 @@ Click your screen to flap and fly higher. Avoid hitting the ground and flying ro
 
 # Installation
 
-Add the SDK file to your phone.
+Add the APK file to your phone.
 
 # Contact 
 
